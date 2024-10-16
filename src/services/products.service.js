@@ -17,8 +17,3 @@ export async function getProductsByCategory(categoryId) {
         `https://dummyjson.com/products/category/${categoryId}`
     );
 }
-
-
-//'https://dummyjson.com/products'
-// https://dummyjson.com --> nuestra casa/host
-// **/products** --> Endpoint // Servicio que vamos a consumir
